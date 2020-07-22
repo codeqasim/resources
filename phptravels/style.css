@@ -23,13 +23,6 @@ font-weight: normal;
 src: local('Muli Bold'), url('assets/fonts/muli/Muli-Bold.woff') format('woff');
 }
 
-@font-face {
-font-family: 'Muli Bold';
-font-style: normal;
-font-weight: normal;
-src: local('Muli Bold'), url('Muli-Bold.woff') format('woff');
-}
-
 body {font-family: 'Muli Regular',sans-serif;letter-spacing: 0px;}
 h1,h2,h3,h4,h5,strong,b{ font-family: 'Muli Bold'; font-weight: normal; }
 s
