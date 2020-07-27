@@ -1615,7 +1615,7 @@ background-color: #ffffff;
 .hotel-room-sm-item .the-hotel-item small { display: block; }
 
  .booking-selection-box input { min-height: 3.6rem; }
- .booking-selection-box .form-spin-group .form-icon-left .icon-font { min-height: 3.6rem; padding-left: 40%; }
+ .booking-selection-box .form-spin-group .form-icon-left .icon-font { min-height: 3.6rem; margin-left: 40%; }
  .back-to-top { bottom: 50px !important; }
 
  #change-search .form-search-main-01 .form-control { height: 55px !important; }
@@ -1623,3 +1623,6 @@ background-color: #ffffff;
  #change-search .form-search-main-01 .row-reverse { display: flex; align-items: center !important; width: 100% }
  #change-search .form-search-main-01  .form-spin-group .form-icon-left .icon-font i { top: 0px; }
  #change-search .form-search-main-01 .btn-primary { margin: 27px 0 0px; }
+
+ .hero-form-inner { background: hsl(0deg 0% 100% / 10%); padding: 15px; border: 0 solid hsla(0,0%,100%,.2); border-radius: 10px 10px 10px 10px; box-shadow: 0 20px 80px rgb(0 0 0 / 21%); }
+ #exampleInputEmail1 { min-height: 50px }
