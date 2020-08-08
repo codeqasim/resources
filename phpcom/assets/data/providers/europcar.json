@@ -1,0 +1,19 @@
+{
+"name" : "Europcar",
+"description" : "Europcar has established itself as one of South Africa's leading global car rental companies one which prides itself on delivering locally relevant, world-class service excellence with a dynamic and fresh attitude. Its payoff line of 'Moving Your Way' encompasses the company's global strategy to be a key player in shaping the future of mobility, together with its commitment to exceptional customer service.",
+"slug": "europcar",
+"supportedapi": "Car Rental,insurance",
+"apirovider": "https://www.europcar.co.za/Content/affiliate-partners",
+"apihomepage": "No information available",
+"address": "Guyancourt, IIe de France, France",
+"phone": "+27-0-11-479-4000",
+"supportemail": "No information available",
+"customersupport": "https://www.europcar.co.za/Content/customer-care",
+"faqs": "https://www.europcar.co.za/Content/faq",
+"onlinsince": "1949",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "Credit card/Debit card",
+"policy": "https://www.europcar.com/security-and-privacy-policy",
+"terms": "https://www.europcar.com/terms-and-conditions"
+}

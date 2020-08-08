@@ -1,0 +1,19 @@
+{
+"name" : " Dollar",
+"description" : "Dollar Rent A Car was founded in 1965 in Los Angeles, where its executive offices remained until August 1994 when it relocated its world car rental headquarters to Tulsa, Oklahoma. Together with its corporately-owned locations and those of its franchise owners, Dollar Rent A Car has approximately 570 locations in 61 countries including approximately 260 locations in the United States and Canada with a significant presence also in the Caribbean and Latin America.",
+"slug": "dollar",
+"supportedapi": "Car Rental",
+"apirovider": "http://www.dollar.com",
+"apihomepage": "No information available",
+"address": "Dollar EXPRESS Services Program Dollar Rent A Car, Inc. P.O. Box 33167 Tulsa, OK 74153-1167",
+"phone": "1-800-800-5252",
+"supportemail": "No information available",
+"customersupport": "http://www.dollar.com/",
+"faqs": "https://www.dollar.com/Express/FAQs_ns.aspx",
+"onlinsince": "1965",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "https://www.dollar.com/AboutUs/Privacy.aspx",
+"terms": "https://www.dollar.com/"
+}

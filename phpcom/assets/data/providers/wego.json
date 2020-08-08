@@ -1,0 +1,19 @@
+{
+"name" : "Wego",
+"description" : "Wego.com is a travel meta-search engine that makes finding the best priced hotels and flights online easy, thus helping you save time, pay less and travel more.<br> By joining the Wego Affiliate Network you receive a share of the revenue that our booking partners pay us for every visitor that we send them . It’s free to join and we offer incentives for extremely good performers. <br> As a Wego Affiliate you will have access to banners, links, search boxes and the ability to start your own private branded meta-search site using our white-label app. In addition to these, we have APIs that allow you to model your site the way you want it. <br> Hundreds of Wego Affiliates, both travel and non-travel related sites are already making money by adding Wego to their website strategy. Join the Wego Affiliate Network and you can do the same!",
+"slug": "wego",
+"supportedapi": "Hotels, Flights",
+"apirovider": "http://www.wego.com/",
+"apihomepage": "http://support.wan.travel/hc/en-us/articles/200191669-Wego-Flights-API",
+"address": "100 Beach Road #23-07/13 Shaw Tower Singapore 189702",
+"phone": "+65 6692 0868",
+"supportemail": "support@wego.com",
+"customersupport": "http://support.wan.travel/hc/en-us",
+"faqs": "http://support.wan.travel/hc/en-us",
+"onlinsince": "N/A",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.wego.com/privacy",
+"terms": "http://www.wan.travel/terms"
+}

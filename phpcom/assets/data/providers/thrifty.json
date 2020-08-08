@@ -1,0 +1,19 @@
+{
+"name" : "Thrifty",
+"description" : "Thrifty Car Rental is one of the largest car rental companies in the world and is a wholly owned subsidiary of Dollar Thrifty Automotive Group, Inc. Through corporately-owned and franchised stores, the company operates more than 1,000 locations in 77 countries. Thrifty is one of the most widely recognized brands in the travel industry that caters to cost-conscious business and leisure travellers.",
+"slug": "thrifty-car-rental-provider",
+"supportedapi": "Supported API: Car Rental",
+"apirovider": "http://www.thrifty.ie",
+"apihomepage": "http://www.thrifty.ie/Affiliates",
+"address": "9-11 Grosvenor Gardens London SW1W 0BD United Kingdom",
+"phone": "1890-927-620",
+"supportemail": "No information available",
+"customersupport": "http://www.thrifty.ie/CustomerCare",
+"faqs": "http://www.thrifty.ie/Faq",
+"onlinsince": "1958",
+"languages": "Languages: No information available",
+"currency": "Languages: No information available",
+"methodofpayment": "Languages: No information available",
+"policy": "http://www.thrifty.ie/Localization/English/privacypolicy.htm?",
+"terms": "https://www.hertz.co.uk/rentacar/navigation/templates/legalView.jsp"
+}

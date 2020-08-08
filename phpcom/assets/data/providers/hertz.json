@@ -1,0 +1,19 @@
+{
+"name" : "Hertz",
+"description" : "If you wish to work with Hertz then we would like to hear from you.  Quite simply, by referring your customers to us you can earn yourself commission when they rent a car.  There are two main ways of being a Hertz affiliate either via our affiliate network links or direct.",
+"slug": "hertz",
+"supportedapi": "Car Rental",
+"apirovider": "https://www.hertz.com/rentacar/b2b/AffiliateProgView-b2b",
+"apihomepage": "No information available",
+"address": "Santry, Dublin 9, Ireland",
+"phone": "+91-22-44-22-2222",
+"supportemail": "No information available",
+"customersupport": "https://www.hertz.com/rentacar/b2b/AffiliateProgView-b2b",
+"faqs": "https://www.hertz.co.uk/rentacar/customersupport/index.jsp?targetPage=faqsRightNow.jsp",
+"onlinsince": "1918",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.hertzarabic.com/?pos=SA&lang=ar",
+"terms": "http://www.hertzarabic.com/?pos=SA&lang=ar"
+}

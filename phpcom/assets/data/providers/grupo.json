@@ -1,0 +1,19 @@
+{
+"name" : "Grupo Transhotel",
+"description" : "The Transhotel Group consists of five marks related to the tourism industry. About 600 professionals from all areas of work daily with the primary aim of offering more than 60,000 hotels that make up your portfolio and all tourist services at international level to 78,800 partner travel agencies worldwide. The Group aims primarily to offer a new dimension of service concept, and always stay at the technological forefront at all times offering the best solutions for tourism professionals. All Group brands offer real solutions to the tourism professionals in different fields of action solutions.",
+"slug": "grupo-transhotel",
+"supportedapi": "Hotels, Flights, Cars, Beach, Travel Insurance",
+"apirovider": "https://www.transhotel.com/HTML_TOR/html/home/",
+"apihomepage": "https://webservices.transhotel.com/usersite_web/xml.jsp",
+"address": "Grupo TRANSHOTEL C Isla del Hierro, 3 28700 San Sebastian de los Reyes Madrid Spain",
+"phone": "+34-91-724-24-10",
+"supportemail": "interfaces@transhotel.com",
+"customersupport": "https://www.transhotel.com/HTML_TOR/html/home/",
+"faqs": "https://webservices.transhotel.com/usersite_web/faq.jsp",
+"onlinsince": "2013",
+"languages": "ENG, SPA, FRE, POR, I TA, GER, DUT, SWE, DKK, PL, CR, CH, GR, NOR",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "https://www.transhotel.com/HTML_TOR/html/home/ING_GLOBAL/aviso-legal.html#proteccion",
+"terms": "https://www.transhotel.com/HTML_TOR/html/home/"
+}

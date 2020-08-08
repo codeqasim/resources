@@ -1,0 +1,19 @@
+{
+"name" : "Booking.com",
+"description" : "Description:Booking.com is the leading worldwide online accommodation reservations agency, currently offering over 584,892 directly contracted hotels with the best rates guaranteed. The Booking.com affiliate partner programme has a demonstrated track record of great earning potential. The commission-based model we use with our hotels is the preferred sales model in the hotel industry and guarantees a long-term, mutually beneficial business relationship with the hotels. Booking.com is part of Priceline.com Incorporated. Priceline.com Incorporated trades on the NASDAQ Global Select Market under the ticker symbol PCLN.",
+"slug": "booking",
+"supportedapi": "Hotels",
+"apirovider": "http://www.booking.com/content/affiliates.html",
+"apihomepage": "https://admin.booking.com/partner/",
+"address": "Herengracht 597, 1017 CE Amsterdam, Netherlands",
+"phone": "No information available",
+"supportemail": "sp.support@booking.com",
+"customersupport": "https://www.booking.com/content/cs.en-gb.html",
+"faqs": "https://www.booking.com/affiliate-program/faq.en-gb.html?label=gen173rf-1FCBQyDmFmZmlsaWF0ZS1oZWxwQgJYWEgJWANoxAGIAQGYAS64AQjIAQzYAQHoAQH4AQKSAgF5ogIOdHJhdmVsb3Rhcy5jb22oAgM;sid=25331408d021fa1e0e730e33b472652c;dcid=4",
+"onlinsince": "1996",
+"languages": "41 languages",
+"currency": "23 Currencies",
+"methodofpayment": "Credit Cards - Visa,American Express,MasterCard",
+"policy": "https://www.booking.com/content/privacy.en-gb.html",
+"terms": "https://www.booking.com/content/terms.en-gb.html"
+}

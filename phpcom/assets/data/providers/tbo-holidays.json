@@ -1,0 +1,19 @@
+{
+"name" : "TBO Holidays",
+"description" : "tboholidays.com is a B2B travel portal that allows travel agents to book over 200,000 hotels worldwide in real time. Backed by cutting edge technology and superior customer support, tboholidays.com is your one stop shop for all holiday booking requirements.",
+"slug": "tbo-holidays",
+"supportedapi": "Hotels,Flights",
+"apirovider": "http://www.tboholidays.com/",
+"apihomepage": "http://www.tboholidays.com/xml_api.aspx",
+"address": "2408, Liwa Heights Jumeirah Lake Towers, 34544, Dubai, U.A.E",
+"phone": "+971 555038071",
+"supportemail": "partners@tboholidays.com",
+"customersupport": "http://www.tboholidays.com/",
+"faqs": "http://www.tboholidays.com/",
+"onlinsince": "No information available",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.tboholidays.com/privacypolicy.aspx",
+"terms": "http://www.tboholidays.com/termsandconditions.aspx"
+}

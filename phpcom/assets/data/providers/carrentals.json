@@ -1,0 +1,19 @@
+{
+"name" : "Carrentals",
+"description" : "Carrentals.co.uk is the UK's leading car hire comparison site that helps customers find the cheapest car hire deals every day. By searching up to 50 different car hire websites, we provide an impartial comparison of the best prices available in over 15,000 locations. This means our customers can be satisfied they have found the best car hire for them at an unbeatable price.",
+"slug": "carrentals-co-uk",
+"supportedapi": "Car Rental",
+"apirovider": "http://www.carrentals.co.uk/",
+"apihomepage": "http://www.carrentals.co.uk/about/affiliate-programme/#top",
+"address": "1 The Square, Lightwater, Surrey, GU18 5SS",
+"phone": "0333 313 6566",
+"supportemail": "No information available",
+"customersupport": "http://www.carrentals.co.uk/help/",
+"faqs": "https://www.carrentals.co.uk/about/affiliate-programme/car-hire-affiliate-faq/",
+"onlinsince": "2003",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "https://www.carrentals.co.uk/about/privacy-policy/",
+"terms": "https://www.carrentals.co.uk/about/terms/"
+}

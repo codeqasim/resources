@@ -1,0 +1,19 @@
+{
+"name" : "Hotelscombined",
+"description" : "HotelsCombined.in allows you to instantly search and compare room availability and prices from all major travel websites, including Expedia, Hotels.com, Venere, Laterooms, Travelocity (and many more) all in one set of search results. Offer the world-leading hotel comparison on your website or mobile site. Let your users check hotel prices and availability from all the best travel sites, in one simple search.",
+"slug": "hotelscombined",
+"supportedapi": "Hotels",
+"apirovider": "http://affiliates.hotelscombined.com/",
+"apihomepage": "No information available",
+"address": "HotelsCombined Pty Ltd Level 5, 55 Mountain St, Ultimo, 2007, NSW, Australia",
+"phone": "No information available",
+"supportemail": "affiliate@hotelscombined.com",
+"customersupport": "http://affiliates.hotelscombined.com/",
+"faqs": "https://affiliates.hotelscombined.com/Help/FAQAffiliateProgram",
+"onlinsince": "2005",
+"languages": "http://www.hotelscombined.com",
+"currency": "http://www.hotelscombined.com",
+"methodofpayment": "No information available",
+"policy": "http://www.hotelscombined.com/AboutUs/Privacy?languageCode=EN",
+"terms": "http://www.hotelscombined.com/AboutUs/TermsOfUse?languageCode=EN"
+}

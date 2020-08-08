@@ -1,0 +1,19 @@
+{
+"name" : "Car Trawler",
+"description" : "CarTrawler connects customers and travel companies to more ground based transport solutions in more cities than they will find anywhere else. Our service is designed around the needs of three very different but equally important audiences:We provide ground transport companies such as car rental, limousine, rail, shuttle and taxi services with a highly efficient route to market. The scale of our marketplace gives them access to a global customer base that is insulated from seasonal peaks and troughs and provides them with a gateway to all segments of the travel industry.",
+"slug": "car-trawler",
+"supportedapi": "Car Rental",
+"apirovider": "http://www.cartrawler.com/",
+"apihomepage": "http://www.cartrawler.com/signup-affiliate-newsite.asp",
+"address": "Classon House, Dundrum Business Park, Dundrum, Dublin 14, Ireland",
+"phone": "00 353 1 4999 600",
+"supportemail": "No information available",
+"customersupport": "http://www.cartrawler.com/",
+"faqs": "http://www.cartrawler.com/",
+"onlinsince": "2013",
+"languages": "https://otageo.cartrawler.com/cartrawlerota/files/static/ctlanguage.xml",
+"currency": "https://otageo.cartrawler.com/cartrawlerota/files/static/ctcurrency.xml",
+"methodofpayment": "No information available",
+"policy": "https://www.cartrawler.com/ct/privacy-policy.html",
+"terms": "https://www.cartrawler.com/ct/disclaimer.html"
+}

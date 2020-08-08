@@ -1,0 +1,19 @@
+{
+"name" : "Alamo Rent A Car",
+"description" : "In 1974, Alamo Rent A Car opens four locations in Florida, pioneering the concept of Unlimited Free Mileage. Immediately carving its niche in the leisure car rental industry, Alamo focuses its mission on providing a fun, low-cost, high-value rental experience to family and leisure travelers. Alamo's commitment to the leisure travel market has fostered longstanding partnerships with the airline industry, travel destinations, travel agents and tour operators around the world. Alamo's operations have since expanded throughout the United States, Canada, Mexico, Latin America and Asia.",
+"slug": "alamo-rent-a-car-api",
+"supportedapi": "Car Rental",
+"apirovider": "http://www.alamo.co.uk/",
+"apihomepage": "http://www.alamo.co.uk/affiliates",
+"address": "Fort Lauderdale, FL 33316",
+"phone": "0800 028 2390.",
+"supportemail": "customerservice.alamo.co.uk@ehi.com",
+"customersupport": "http://www.alamo.co.uk/helpfulinformation/gb",
+"faqs": "http://aboutus.alamo.co.uk/faqs.html",
+"onlinsince": "1974",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.alamo.co.uk/Content/740/uk/PrivacyPolicy",
+"terms": "http://www.alamo.co.uk"
+}

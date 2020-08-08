@@ -1,0 +1,19 @@
+{
+"name" : "Hotel Beds",
+"description" : "A global distributor of accommodation and ancillary products to the world s travel trade  We are focused on driving business for our partners while simplifying the customer experience  across all our touchpoints We contract connect and efficiently distribute a differentiated portfolio of 170k properties to leading industry partners including online travel agencies OTAs retail agencies tour operators and airlines We provide a solid platform for travel distribution based on our advanced API interface and a leading technology infrastructure People Working Together Creatively Its a simple concept and one very powerful idea Our culture is what will breathe life into our vision to reshape travel while at the time simplifying all our touchpoints with our partners Our culture is what has helped us get to where we are today and its what will help us reshape travel tomorrow It s what makes us great to do business with and great to work for  We endeavor to be creative daring collaborative and we pro actively seek better and more efficient ways to make a difference in the world of travel So if you think that you can help us reshape travel just visit our careers page and be part of our winning formula",
+"slug": "hotelbeds",
+"supportedapi": "Hotels",
+"apirovider": "https://www.hotelbeds.com/",
+"apihomepage": "https://developer.hotelbeds.com/",
+"address": "Complejo Mirall Balear Cami de Son Fangos 100 Torre A 07007 Palma de Mallorca Spain",
+"phone": "+34 971 211 603",
+"supportemail": "Istanbul@hotelbeds.com",
+"customersupport": "https://www.hotelbeds.com/",
+"faqs": "https://developer.hotelbeds.com/docs/read/apitude_cache/files/FAQ",
+"onlinsince": "2001",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "https://client.hotelbeds.com/payments",
+"policy": "http://group.hotelbeds.com/content/privacy-policy",
+"terms": "https://www.hotelbeds.com/static/images/pdfs/legal/H_ING_terms.pdf"
+}

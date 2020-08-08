@@ -1,0 +1,19 @@
+{
+"name" : "JetRadar",
+"description" : "JetRadar is one of the largest online search engines for flights all over the world helping thousands of people to compare airline prices, track down carriers' special offers, and book the cheapest tickets available. The fastest travel search engine on the web helps users to find flights to all destinations from all major airlines.",
+"slug": "jetradar",
+"supportedapi": "Hotels, Flights, Cars",
+"apirovider": "https://www.jetradar.com/",
+"apihomepage": "https://support.travelpayouts.com/hc/en-us/articles/203956163",
+"address": "N/A",
+"phone": "N/A",
+"supportemail": "support@jetradar.com",
+"customersupport": "https://support.travelpayouts.com/hc/en-us/requests/new",
+"faqs": "https://www.travelpayouts.com/",
+"onlinsince": "N/A",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "https://support.travelpayouts.com/hc/en-us/articles/203956053",
+"terms": "https://support.travelpayouts.com/hc/en-us/articles/203956053"
+}

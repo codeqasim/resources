@@ -1,0 +1,19 @@
+{
+"name" : "Priceline",
+"description" : "The Priceline Partner Network is the most cutting edge private label travel solution on the market. The Priceline Partner Network can customize the booking engine to meet every partner's unique needs. We will adapt our system to fit your brand, and will give you all the support you need to integrate your site with the Priceline Partner Network.",
+"slug": "priceline-hotel-api-provider",
+"supportedapi": "Hotels,Flights,Car Rentals,Cruises, and Deals",
+"apirovider": "http://www.pricelinepartnernetwork.com/travel-affiliate-program",
+"apihomepage": "No information available",
+"address": "800 Connecticut Avenue,Norwalk, Connecticut,06854,United States",
+"phone": "1-877-477-5807",
+"supportemail": "No information available",
+"customersupport": "http://www.pricelinepartnernetwork.com/travel-affiliate-program",
+"faqs": "http://www.priceline.com/help/#/",
+"onlinsince": "1998",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.priceline.com/privacypolicy/privacypolicy.asp",
+"terms": "http://www.priceline.com/privacypolicy/terms_en.html"
+}

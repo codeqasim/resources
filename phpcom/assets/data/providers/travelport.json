@@ -1,0 +1,19 @@
+{
+"name" : "Travelport GDS",
+"description" : "Travelport is a leading Travel Commerce Platform providing distribution, technology, payment and other solutions for the 8 trillion global travel and tourism industry.ravel port enables travel providers, travel agencies, corporations and developers to connect. This increases profitability and drives commercial success across the business-to-business B2B travel network. Along with distribution and merchandising of airline core and ancillary products, they also spread their wings in area of hotel, car rental, rail, cruise and tour operators.",
+"slug": "travelport",
+"supportedapi": "Flights, Hotels, AIR, Car Rentals, Rail",
+"apirovider": "http://www.travelport.com/Products/Travelport-Universal-API",
+"apihomepage": "https://developer.travelport.com/app/developer-network/universal-api",
+"address": "No information available",
+"phone": "61-2-9391-4666",
+"supportemail": "No information available",
+"customersupport": "https://support.travelport.com/tdssupport/",
+"faqs": "https://support.travelport.com/tdssupport/",
+"onlinsince": "2006",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.travelport.com/Privacy-Policy/Travelport%20GDS",
+"terms": "http://www.travelport.com/Terms-and-Conditions"
+}

@@ -1,0 +1,19 @@
+{
+"name" : "Dohop",
+"description" : "At heart, Dohop is simply a search engine, much like Google, except only for flights. We search and match routes to find the best way to fly between two places, and then we search for the best prices for those routes. We also find rental cars and hotel rooms, cheaper than most. We are not a big company but we are growing and we have a terrific team. When we are not at our desks we play the occasional game of foosball and on Fridays we try to squeeze in a beer or two after work.",
+"slug": "dohop",
+"supportedapi": "Hotels, AIR, Car Rentals",
+"apirovider": "http://www.dohop.com/hackathon/livestore-api.html",
+"apihomepage": "http://www.dohop.com/hackathon/livestore-api.html",
+"address": "No information available",
+"phone": "353-1-4999-600",
+"supportemail": "affiliate@dohop.com",
+"customersupport": "affiliate@dohop.com",
+"faqs": "http://www.dohop.com/about/home/faq/",
+"onlinsince": "2004",
+"languages": "Multi Language",
+"currency": "Multi Currency",
+"methodofpayment": "No information available",
+"policy": "http://www.dohop.is/terms-and-conditions/",
+"terms": "http://www.dohop.is/terms-and-conditions/"
+}

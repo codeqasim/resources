@@ -1,0 +1,19 @@
+{
+"name" : "GTA travels",
+"description" : "GTA is a world leader in the provision of ground travel products and services to the fully independent travel industry We have been the power behind some of the biggest and best in travel for decades They trust us to deliver because of our wealth of experience privileged relationships and on the ground expertise We scour the globe to build a portfolio of tens of thousands of accommodation options tour guide and transfer services unique experiences city tours excursions attraction tickets and restaurants from more than 50000 suppliers in 185 countries These supplier partners profit from dedicated extranets giving them full and flexible control of inventory rates yield and reservations. Renowned for our competitiveness our global reputation and trustworthiness our speed and power reliable technology and booking sites GTA retail Travel Cube and Travel Bound in North America as well as GTA wholesale connect travel wholesalers retail and online travel agents tour operators and consolidators worldwide to this vast portfolio of global travel content We give them greater choice and control over how they market and sell travel product to their customers in 190 countries Powering global travel  and providing the best value and service experience while we do  we process over 21000 bookings electronically and efficiently every day and sell 12 million room nights in more than 25 languages online and throughout the world.",
+"slug": "gtatravels",
+"supportedapi": "hotels, apartments, transfers, sightseeing tours ",
+"apirovider": "http://www.gta-travel.com",
+"apihomepage": "https://developer.gta-travel.com",
+"address": "27 Goswell Road London EC1M 7GT",
+"phone": "+1 (212) 843-9778",
+"supportemail": "GTAextranetsupport@gta-travel.com",
+"customersupport": "http://www.gta-travel.com/en/buy-from-us/why-work-with-us/support#.WnSBbqiWbIU",
+"faqs": "https://developer.gta-travel.com/docs/read/FAQ",
+"onlinsince": "1975",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.gta-travel.com/en/privacy-policy",
+"terms": "http://www.gta-travel.com/en/terms-of-use#.WnSDgaiWbIU"
+}

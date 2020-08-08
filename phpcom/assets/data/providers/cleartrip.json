@@ -1,0 +1,19 @@
+{
+"name" : "ClearTrip",
+"description" : "The Cleartrip APIs let you build full featured websites and applications with all the power of Cleartrip's fast flight and hotel search and book functionalities, without having to sweat it out yourself to implement the complex stuff we have already done.",
+"slug": "cleartrip",
+"supportedapi": "Hotels, Flights, Rail",
+"apirovider": "http://www.cleartrip.com/",
+"apihomepage": "http://www.cleartrip.com/api/index.shtml",
+"address": "Cleartrip Unit No 001, Ground Floor, DTC Bldg, Sitaram Mills Compound, N.M. Joshi Marg, Delisle Road, Lower Parel (E) Mumbai - 400011",
+"phone": "+91 9595 333 333",
+"supportemail": "No information available",
+"customersupport": "http://www.cleartrip.com/",
+"faqs": "http://www.cleartrip.com/faq/api/",
+"onlinsince": "2006",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "Credit card/Debit card, Net Banking",
+"policy": "http://www.cleartrip.sa/",
+"terms": "http://www.cleartrip.com/terms-of-service/"
+}

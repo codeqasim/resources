@@ -1,0 +1,19 @@
+{
+"name" : "TravelStart",
+"description" : "Travelstart is one of Africa's largest online travel booking websites offering flights, hotel bookings, car rental, vacation packages and other travel services through their online booking engine. As of February 2016, Travelstart operates in Bahrain, Botswana, Egypt, Kenya, Kuwait, Morocco, Namibia, Nigeria, Oman, Qatar, Saudi Arabia, South Africa, Tanzania Turkey, United Arab Emirates and Zimbabwe. It trades in some territories as Geziko.",
+"slug": "travelstart",
+"supportedapi": "Hotels, Flights, Cars",
+"apirovider": "https://www.travelstart.com/",
+"apihomepage": "https://www.travelstart.pk/api",
+"address": "Travelstart FZ-LLC Al Thuraya Tower 2 Dubai Media City Dubai P.O. Box: 502057",
+"phone": "+971-56-4871-167",
+"supportemail": "info@travelstart.com",
+"customersupport": "info@travelstart.ae",
+"faqs": "https://www.travelstart.pk/faq",
+"onlinsince": "1999",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "https://www.travelstart.pk/privacy",
+"terms": "https://www.travelstart.pk/terms-and-conditions"
+}

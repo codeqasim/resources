@@ -1,0 +1,19 @@
+{
+"name" : "Avis",
+"description" : "In 1946 Warren Avis opened the worlds first airport car rental location at Willow Run Airport, Detroit, with a grand total of three cars. Today, Avis operates from over 5,000 locations in 165 countries worldwide. Avis is a trusted and award winning brand with a long history of innovation in the car rental industry, and is one of the worlds top brands for customer loyalty, with a commitment to true convenience and exceptional service.",
+"slug": "avis-luxury-car-rental-provider",
+"supportedapi": "Car Rental",
+"apirovider": "http://www.avis.co.uk/",
+"apihomepage": "http://www.avis.co.uk/avis-affiliate-programme",
+"address": "1850 SE 17th Street Causeway Suite 207",
+"phone": "0808-284-5000",
+"supportemail": "customer.service@avis.co.uk",
+"customersupport": "http://www.avis.co.uk/contact-us/customer-services",
+"faqs": "http://www.avis.co.uk/faqs",
+"onlinsince": "2002",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://www.avis.co.uk/about-avis/privacy-policy",
+"terms": "http://www.avis.co.uk/about-avis/website-conditions"
+}

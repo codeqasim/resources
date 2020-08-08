@@ -1,0 +1,19 @@
+{
+"name" : "Arzoo",
+"description" : "Arzoo.com has been launched with one vision To be your travel partner. Arzoo aims to be a one stop shop for travel, where all the varied and divers needs of customers are taken care of and satiated, while planning a trip. Arzoo serves different consumer segments viz. individuals,families and businesses. Air Ticket Bookings Domestic and International Hotel Bookings .Holiday Packages Domestic and International .Weekend Getaways.Corporate Group Incentive Holidays.Car Rentals. Travel Insurance.Foreign Exchange for Travel",
+"slug": "arzoo",
+"supportedapi": "AIR, Car Rentals, Vacation Packages",
+"apirovider": "http://us.arzoo.com/general/tc.jsp",
+"apihomepage": "No information available",
+"address": "Samruddhi Venture Park, 5th Floor, MIDC Central Road, Andheri East,Mumbai, Maharashtra 400093 India",
+"phone": "1-866-495-6079",
+"supportemail": "usa@arzoo.com",
+"customersupport": "http://us.arzoo.com/general/tc.jsp",
+"faqs": "http://us.arzoo.com/general/tc.jsp",
+"onlinsince": "2008",
+"languages": "No information available",
+"currency": "No information available",
+"methodofpayment": "No information available",
+"policy": "http://us.arzoo.com/general/privacypolicy.jsp",
+"terms": "http://us.arzoo.com/general/tc.jsp"
+}
