@@ -3256,3 +3256,4 @@ main.hero { background:#F0F9FF;padding-bottom:35px }
 .yx-n_z { color: #000 !important }
 .yx-njr { font-size: 10px; }
 object{ pointer-events: none; }
+header{z-index:9999 !important}
