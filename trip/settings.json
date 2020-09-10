@@ -1,0 +1,185 @@
+{
+    "settings": [
+        {
+            "id": 1,
+            "site_title": "PHPTRAVELS",
+            "home_title": "PHPTRAVELS | Travel Technology Partner",
+            "site_url": "https://www.phptravels.net",
+            "ssl_url": 0,
+            "tag_line": "null",
+            "site_name": "null",
+            "address": "null",
+            "phone": "null",
+            "copyright": "All Rights Reserved by PHPTRAVELS",
+            "seo_status": 1,
+            "keywords": "php travels script, php hotels booking script, php reservation system",
+            "meta_description": "php travels is complete booking and reservation system provides complete solution for travel agency",
+            "header_logo_img": "logo.png",
+            "footer_logo_img": "footer-logo.png",
+            "favicon_img": "favicon.png",
+            "currency_sign": "null",
+            "currency_code": "USD",
+            "google": "null",
+            "mapApi": "AIzaSyDk_iQ6QWOTHW-TWoXSFLwbcnhaxlcnXXk",
+            "javascript": "null",
+            "reviews": "No",
+            "gallery_approve": 1,
+            "video_uploads": 0,
+            "default_lang": "en",
+            "multi_lang": 1,
+            "date_f": "d/m/Y",
+            "date_f_js": "dd/mm/yyyy",
+            "license_key": "phptravels22923cb76a3a616",
+            "local_key": "9tjI0IzNwAjMwIjI6gjOztjIlRXYkt2Ylh2YioTO6M3OiMWY1ATYkRzMldDZ0MzNxU2MzQGNyQmMkJmM\\n1gDN3MDZiojMzozc7ICazFGa1QWbiozN6M3OicHdldHd3VWPgknZpJXZ2Byb0ByaulGbgUGbpZ2byBHI\\nr92biV2YhZGIyV3bZxHdlRHZ9UWbh5EIulWYt9GRiojM2ozc7IyckxWZpZWbvR3c1NmI6ITM6M3OiMnc\\nlxGbvJHdu92Yc5WatRWQcNXZsVHZv1GXu9Wa0F2YpxGcwFGX3YHXzN2bkRHacJXZ2JXZzxlOFJiO3UjO\\nztjI5J3b0NWZylGZklGbhZnI6QTM6M3OiMjMuADMx4CO2EjLykTMioDNxozc7ICcpRWasFmdiozN6M3O\\niMjMuADMx4CO2EjLykTMuc3d3xyMy4CMwEjL4YTMuITOxIiOzMjOztjIulWYt9GZklGbhZnI6ETM6M3O\\niUWbpRFIl52TioDO6M3OiUGbjl3Yn5WasxWaiJiOyEjOztjIwATLwATLwADMwIiOwEjOztjIlRXYkVWd\\nkRHel5mI6ETM6M3OiADM6ADM6ADMggjMtETMtYTMwIjI6kTM6M3OiUGdhR2ZlJnI6cjOztjIu9Wa0F2Y\\npxGcwFEIiV2VgUWZyZkI6AjM6M3OiUWbh5GdjVHZvJHcioTMxozc7IyMioTM6M3OiQWa0NWdk9mcwJiO\\n5ozc7ISOzQjMioDN6M3OiQWalNWa2JXZzJiO5ozc7ISbvNmLslWYtdGQu9Wa0lGevBXbvNmI6EjM6M3O\\niwWah1WZioTN6M3OiASbpNXYRJiO2ozc7ISZtFmbkVmclR3cpdWZyJiO0EjOztjIlZXa0NWQiojN6M3O\\niMXd0FGdzJiO2ozc7pTNxoTYb48abf87cf09f80771788c0e8ba98434a355abe680f13e578303f75a\\n32c7137e",
+            "secret_key": "xihR5uB31edN",
+            "default_city": 1,
+            "default_theme": "default",
+            "offline_message": "Our website is offline currently",
+            "site_offline": 0,
+            "multi_curr": 1,
+            "booking_expiry": 1,
+            "booking_cancellation": 1,
+            "coupon_code_length": 4,
+            "coupon_code_type": "alpha",
+            "secure_admin_key": "f",
+            "secure_admin_status": 0,
+            "secure_supplier_key": "f",
+            "secure_supplier_status": 0,
+            "allow_registration": 1,
+            "user_reg_approval": "Yes",
+            "allow_supplier_registration": 1,
+            "default_gateway": "AuthorizeNet_AIM",
+            "searchbox": "null",
+            "rss": 1,
+            "updates_check": 24,
+            "restrict_website": "No",
+            "mobile_redirect_url": "http://www.phptravels.net/mob"
+        }
+    ],
+    "modules": [
+        {
+            "id": 1,
+            "name": "blog",
+            "status": "1",
+            "order": 3
+        },
+        {
+            "id": 2,
+            "name": "flights",
+            "status": "1",
+            "order": 2
+        },
+        {
+            "id": 3,
+            "name": "hotels",
+            "status": "1",
+            "order": 3
+        },
+        {
+            "id": 4,
+            "name": "tours",
+            "status": "1",
+            "order": 4
+        },
+        {
+            "id": 5,
+            "name": "cars",
+            "status": "1",
+            "order": 5
+        }
+    ],
+    "currencies": [
+        {
+            "id": 1,
+            "name": "USD",
+            "country_name": "Afghanistan",
+            "symbol": "$",
+            "code": "US",
+            "rate": 1,
+            "decimals": 2,
+            "placement": "before",
+            "order": 1,
+            "default": "1",
+            "active": "1",
+            "featured": "1"
+        },
+        {
+            "id": 3,
+            "name": "GBP",
+            "country_name": "Albania",
+            "symbol": "£",
+            "code": "GBP",
+            "rate": 0.83,
+            "decimals": 2,
+            "placement": "before",
+            "order": 3,
+            "default": "0",
+            "active": "1",
+            "featured": "1"
+        }
+    ],
+    "languages": [
+        {
+            "id": 1,
+            "name": "English",
+            "country_code": "AF",
+            "country_name": "Afghanistan",
+            "code": "EN",
+            "dir": "LTR",
+            "status": "1",
+            "default": "1",
+            "featured": "1"
+        },
+        {
+            "id": 2,
+            "name": "Arabic",
+            "country_code": "AL",
+            "country_name": "Albania",
+            "code": "AR",
+            "dir": "RTL",
+            "status": "1",
+            "default": "0",
+            "featured": "1"
+        }
+    ],
+    "featured": {
+        "blog": [
+            {
+                "id": 1,
+                "title": "title",
+                "slug": "slug",
+                "img": "img",
+                "Blog_category": "hotel",
+                "desc": "desc",
+                "status": "1",
+                "featured": "1",
+                "seo_title": "seo_title",
+                "seo_keywords": "seo_keywords",
+                "seo_desc": "seo_desc"
+            },
+            {
+                "id": 2,
+                "title": "title",
+                "slug": "slug",
+                "img": "img",
+                "Blog_category": "flights",
+                "desc": "desc",
+                "status": "1",
+                "featured": "1",
+                "seo_title": "seo_title",
+                "seo_keywords": "seo_keywords",
+                "seo_desc": "seo_desc"
+            }
+        ],
+        "flights": [
+            {
+                "name": "flights"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "hotels"
+            }
+        ]
+    }
+}
